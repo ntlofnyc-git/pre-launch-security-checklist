@@ -1,0 +1,129 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:03.252
+Claude, I don't want hackers getting into my app,
+
+2
+00:00:03.272 --> 00:00:04.352
+so please…
+
+3
+00:00:04.502 --> 00:00:05.882
+Set up proper authentication.
+
+4
+00:00:05.902 --> 00:00:07.282
+Hide API keys.
+
+5
+00:00:07.302 --> 00:00:08.533
+Secure my database.
+
+6
+00:00:08.702 --> 00:00:10.169
+Enforce HTTPS.
+
+7
+00:00:10.189 --> 00:00:11.200
+Hash passwords.
+
+8
+00:00:11.589 --> 00:00:13.314
+Validate my forms server-side.
+
+9
+00:00:13.334 --> 00:00:15.094
+Protect against XSS.
+
+10
+00:00:15.114 --> 00:00:17.102
+Log and monitor suspicious activity.
+
+11
+00:00:17.122 --> 00:00:18.590
+Lock down my admin routes.
+
+12
+00:00:18.610 --> 00:00:19.918
+Use parameterized queries.
+
+13
+00:00:20.010 --> 00:00:21.410
+Check my environment variables.
+
+14
+00:00:21.430 --> 00:00:22.419
+Add rate limiting.
+
+15
+00:00:22.830 --> 00:00:24.394
+Restrict my CORS settings.
+
+16
+00:00:24.414 --> 00:00:25.794
+Add security headers.
+
+17
+00:00:25.814 --> 00:00:27.575
+Secure my session cookies.
+
+18
+00:00:27.595 --> 00:00:29.066
+Add CSRF protection.
+
+19
+00:00:29.086 --> 00:00:30.872
+Make password-reset links expire.
+
+20
+00:00:30.892 --> 00:00:32.907
+Restrict file upload types and sizes.
+
+21
+00:00:32.927 --> 00:00:34.505
+Verify prices and payments.
+
+22
+00:00:34.525 --> 00:00:36.137
+Disable production debug mode.
+
+23
+00:00:36.157 --> 00:00:37.772
+Update vulnerable dependencies.
+
+24
+00:00:37.792 --> 00:00:39.172
+Remove unused packages.
+
+25
+00:00:39.192 --> 00:00:40.569
+Check for exposed files.
+
+26
+00:00:40.592 --> 00:00:42.765
+Scan my Git history for leaked secrets.
+
+27
+00:00:42.785 --> 00:00:44.820
+Revoke and replace compromised keys.
+
+28
+00:00:44.840 --> 00:00:46.304
+Run a thorough security review.
+
+29
+00:00:46.324 --> 00:00:50.080
+And finally, test the protections, and give me a report of findings and fixes.
+
+30
+00:00:51.009 --> 00:00:53.232
+Every project needs a pre-launch security toolkit.
+
+31
+00:00:53.252 --> 00:00:55.361
+We build it into every app before it goes live.
+
+32
+00:00:55.531 --> 00:00:59.026
+Learn more at ntlofnyc.com.
