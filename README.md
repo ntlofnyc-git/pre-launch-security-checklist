@@ -10,7 +10,7 @@ This is the checklist we run on every site and app we build at [NTL of NYC](http
 
 ## Watch: the 27 checks in 60 seconds
 
-[![Watch the 60-second video](media/video-poster.jpg)](media/27-security-checks.mp4)
+<a href="media/27-security-checks.mp4"><img src="media/video-poster.jpg" width="270" alt="Watch the 60-second video"></a>
 
 <sub>Tap the image to play [media/27-security-checks.mp4](media/27-security-checks.mp4) (60 s, captions in [media/27-security-checks.en.vtt](media/27-security-checks.en.vtt)). Or watch it with the full write-up on the blog: **[Pre-Launch Security Checklist: 27 Checks](https://ntlofnyc.com/blog/pre-launch-security-checklist)**.</sub>
 
